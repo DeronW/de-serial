@@ -1,0 +1,37 @@
+.de-seri-panel {
+  padding: 16px;
+  border: 1px dotted gray;
+}
+
+.de-seri-field {
+  display: flex;
+}
+
+.de-seri-field-key {
+  margin-right: 10px;
+}
+
+.de-seri-field-type {
+  color: #999;
+}
+
+.de-seri-dispose {
+  margin: 0 10px 0 0;
+}
+
+.de-seri-extract {
+  margin-right: 10px;
+}
+
+.de-seri-param {
+  display: flex;
+}
+
+.de-seri-param-required {
+  color: red;
+  width: 8px;
+}
+
+.de-seri-extract-multi-fields {
+  display: flex;
+}
